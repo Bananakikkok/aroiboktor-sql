@@ -1,0 +1,118 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2024-02-11 02:56:02
+LastUsageStatisticCall<|||>1<|||>2024-02-01 03:13:52
+LastSessions<|||>1<|||>Unnamed
+LastActiveSession<|||>1<|||>Unnamed
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+CreateDbCollation<|||>1<|||>utf8mb4_general_ci
+ColWidths_frmTableEditor.listColumns<|||>1<|||>58,100,156,90,60,65,50,119,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>314,100,80,120
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+MainWinMaximized<|||>3<|||>1
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+FileDialogEncoding_MainForm<|||>3<|||>0
+querymemoheight<|||>3<|||>368
+SQLFile0<|||>1<|||>C:\Users\ACER A515-51G\AppData\Roaming\HeidiSQL\Backups\query-tab-2024-02-01_03-13-44-826.sql
+SQLFile1<|||>1<|||>C:\Users\ACER A515-51G\Downloads\Project_Web.sql
+DateTimeEditor_CursorPos_Type4<|||>3<|||>10
+Servers\Unnamed\SessionCreated<|||>1<|||>2024-02-01 03:14:14
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>6
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelActive<|||>3<|||>0
+Servers\Unnamed\SshExecutable<|||>1<|||>
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>2
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed\LogFileDdl<|||>3<|||>0
+Servers\Unnamed\LogFileDml<|||>3<|||>0
+Servers\Unnamed\LogFilePath<|||>1<|||>C:\Users\ACER A515-51G\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Unnamed\ServerVersionFull<|||>1<|||>10.4.32-MariaDB - mariadb.org binary distribution
+Servers\Unnamed\ConnectCount<|||>3<|||>4
+Servers\Unnamed\ServerVersion<|||>3<|||>100432
+Servers\Unnamed\LastConnect<|||>1<|||>2024-02-11 02:56:23
+Servers\Unnamed\lastUsedDB<|||>1<|||>projectweb
+Servers\Unnamed\RefusedCount<|||>3<|||>3
+Servers\Unnamed\QueryHistory\1<|||>1<|||>2024-02-01 03:19:20|restaurant|344|CREATE TABLE Member (<{{{><}}}>    Id_member INT PRIMARY KEY,<{{{><}}}>    Firstname VARCHAR(50),<{{{><}}}>    Lastname VARCHAR(50),<{{{><}}}>    Email VARCHAR(50),<{{{><}}}>    Password_member VARCHAR(20)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\2<|||>1<|||>2024-02-01 03:22:09|restaurant|265|CREATE TABLE Restaurant_type (<{{{><}}}>    Id_type INT PRIMARY KEY,<{{{><}}}>    R_type VARCHAR(255)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\3<|||>1<|||>2024-02-01 03:22:38|restaurant|406|CREATE TABLE Restaurant (<{{{><}}}>    R_id INT PRIMARY KEY,<{{{><}}}>    R_name VARCHAR(255),<{{{><}}}>    Address VARCHAR(255),<{{{><}}}>    R_date DATE,<{{{><}}}>    Cost DECIMAL(10, 2),<{{{><}}}>    R_picture VARCHAR(255),<{{{><}}}>    Note TEXT,<{{{><}}}>    Id_type INT,<{{{><}}}>    FOREIGN KEY (Id_type) REFERENCES restaurant_type(Id_type)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\4<|||>1<|||>2024-02-01 03:24:53|restaurant|312|CREATE TABLE Menu (<{{{><}}}>    Id_menu INT PRIMARY KEY,<{{{><}}}>    M_picture VARCHAR(255),<{{{><}}}>    R_id INT,<{{{><}}}>    FOREIGN KEY (R_id) REFERENCES Restaurant(R_id)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\5<|||>1<|||>2024-02-01 03:25:34|restaurant|313|CREATE TABLE Review (<{{{><}}}>    Id_member INT,<{{{><}}}>    R_id INT,<{{{><}}}>    Review_score INT,<{{{><}}}>    R_comment TEXT,<{{{><}}}>    PRIMARY KEY (Id_member, R_id),<{{{><}}}>    FOREIGN KEY (Id_member) REFERENCES Member(Id_member),<{{{><}}}>    FOREIGN KEY (R_id) REFERENCES Restaurant(R_id)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\6<|||>1<|||>2024-02-01 03:26:30|restaurant|297|CREATE TABLE Phone (<{{{><}}}>    R_id INT,<{{{><}}}>    R_phone VARCHAR(15) PRIMARY KEY,<{{{><}}}>    FOREIGN KEY (R_id) REFERENCES Restaurant(R_id)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\7<|||>1<|||>2024-02-01 03:31:31|restaurant|797|ALTER TABLE Member<{{{><}}}>MODIFY COLUMN Id_member INT AUTO_INCREMENT;<{{{><}}}>
+Servers\Unnamed\QueryHistory\9<|||>1<|||>2024-02-01 03:34:55|restaurant|172|DELETE FROM Member;<{{{><}}}>
+Servers\Unnamed\QueryHistory\10<|||>1<|||>2024-02-01 03:36:42|restaurant|0|UPDATE Member<{{{><}}}>SET Id_member = LPAD(Id_member, 5, '0');<{{{><}}}>
+Servers\Unnamed\QueryHistory\11<|||>1<|||>2024-02-01 03:37:15|restaurant|94|INSERT INTO Member (Firstname, Lastname, Email, Password_member) VALUES<{{{><}}}>('John', 'Doe', 'john.doe@email.com', 'password123'),<{{{><}}}>('Alice', 'Smith', 'alice.smith@email.com', 'securepass'),<{{{><}}}>('Bob', 'Johnson', 'bob.johnson@email.com', 'pass123word'),<{{{><}}}>('Eva', 'Williams', 'eva.williams@email.com', 'password456'),<{{{><}}}>('Charlie', 'Brown', 'charlie.brown@email.com', 'brownpass');<{{{><}}}>
+Servers\Unnamed\QueryHistory\8<|||>1<|||>2024-02-01 03:38:01|restaurant|79|INSERT INTO Member (Firstname, Lastname, Email, Password_member) VALUES<{{{><}}}>('John', 'Doe', 'john.doe@email.com', 'password123'),<{{{><}}}>('Alice', 'Smith', 'alice.smith@email.com', 'securepass'),<{{{><}}}>('Bob', 'Johnson', 'bob.johnson@email.com', 'pass123word'),<{{{><}}}>('Eva', 'Williams', 'eva.williams@email.com', 'password456'),<{{{><}}}>('Charlie', 'Brown', 'charlie.brown@email.com', 'brownpass'),<{{{><}}}>('Michael', 'Johnson', 'michael.johnson@email.com', 'mikepass'),<{{{><}}}>('Emily', 'Davis', 'emily.davis@email.com', 'password789'),<{{{><}}}>('Ryan', 'Miller', 'ryan.miller@email.com', 'millerpass'),<{{{><}}}>('Sophia', 'Clark', 'sophia.clark@email.com', 'secure456'),<{{{><}}}>('Daniel', 'Taylor', 'daniel.taylor@email.com', 'taylorpass');<{{{><}}}>
+Servers\Unnamed\QueryHistory\12<|||>1<|||>2024-02-01 03:38:55|restaurant|0|UPDATE Member<{{{><}}}>SET Id_member = LPAD(Id_member, 5, '0');
+Servers\Unnamed\QueryHistory\13<|||>1<|||>2024-02-01 04:00:56|restaurant|360|CREATE TABLE Menu (<{{{><}}}>    Id_menu INT(5) ZEROFILL AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    M_picture VARCHAR(255),<{{{><}}}>    R_id INT(5) ZEROFILL,<{{{><}}}>    FOREIGN KEY (R_id) REFERENCES Restaurant(R_id)<{{{><}}}>);<{{{><}}}><{{{><}}}>CREATE TABLE Review (<{{{><}}}>    Id_member INT(5) ZEROFILL,<{{{><}}}>    R_id INT(5) ZEROFILL,<{{{><}}}>    Review_score INT,<{{{><}}}>    R_comment TEXT,<{{{><}}}>    PRIMARY KEY (Id_member, R_id),<{{{><}}}>    FOREIGN KEY (Id_member) REFERENCES Member(Id_member),<{{{><}}}>    FOREIGN KEY (R_id) REFERENCES Restaurant(R_id)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\14<|||>1<|||>2024-02-01 04:01:15|restaurant|328|CREATE TABLE Phone (<{{{><}}}>    R_id INT(5) ZEROFILL,<{{{><}}}>    R_phone VARCHAR(15) PRIMARY KEY,<{{{><}}}>    FOREIGN KEY (R_id) REFERENCES Restaurant(R_id)<{{{><}}}>);<{{{><}}}>
+Servers\Unnamed\QueryHistory\15<|||>1<|||>2024-02-12 01:48:30|projectweb|532|INSERT INTO `restaurant_type` (`R_Type`) VALUES<{{{><}}}>('อาหารตามสั่ง'),<{{{><}}}>('ส้มตำหรือยำ'),<{{{><}}}>('โจ๊กหรือข้าวต้ม'),<{{{><}}}>('หม่าล่า'),<{{{><}}}>('ชาบูหรือหมูกระทะ'),<{{{><}}}>('อาหารเหนือ'),<{{{><}}}>('อาหารนานาชาติ'),<{{{><}}}>('ของหวาน'),<{{{><}}}>('กาแฟหรือชา'),<{{{><}}}>('น้ำเพื่อสุขภาพ');<{{{><}}}>
+Servers\Unnamed\QueryHistory\17<|||>1<|||>2024-02-12 01:58:56|projectweb|234|INSERT INTO `restaurant` (`R_Name`, `Id_Type`, `Address`, `R_Date`, `R_Time`, `Cost`, `R_Picture`, `Note`) VALUES<{{{><}}}>('สถานีโยเกิร์ต ม.พะเยา', 11, '222 ตำบลแม่กา เมือง พะเยา 56000', 'จันทร์-ศุกร์', '11:00:00-21:00:00', 30, 'YoghurtStation.jpg', 'Very tasty yoghurt station.');<{{{><}}}>
+Servers\Unnamed\QueryHistory\16<|||>1<|||>2024-02-12 02:13:08|projectweb|94|USE projectweb;<{{{><}}}><{{{><}}}>INSERT INTO restaurant (R_Name, Id_Type, Address, R_Date, R_Time, Cost, R_Picture, Note)<{{{><}}}>VALUES ('ร้านอาหาร แจ็ค แอนด์ เอ็ม', 2, '2WJG+5V6 ตำบลแม่กา อำเภอเมืองพะเยา พะเยา 56000', 'จันทร์-ศุกร์', '9.00-22.00 น.', 40, 'YoghurtStation.jpg', 'Very tasty Food especially fried rice.');<{{{><}}}>
